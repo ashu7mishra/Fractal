@@ -14,3 +14,12 @@ https://www.frontendinterviewhandbook.com/
 https://github.com/yangshun/front-end-interview-handbook
 
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+hoisting
+event loop
+execution context
+closures
+this keyword
+how js works / browser works
+promises ( async js )
+object , arrays questions prblem solving
