@@ -12,3 +12,5 @@ https://www.google.com/search?q=frontend+crash+course+brad+traversy&sca_esv=8c9b
 https://www.frontendinterviewhandbook.com/
 
 https://github.com/yangshun/front-end-interview-handbook
+
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
